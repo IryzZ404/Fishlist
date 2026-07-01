@@ -1,18 +1,16 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "name": "pachynko pachynko",
+    "author": "Henyher",
+    "creators": ["Henyher"],
+    "verifier": "Soda",
+    "verification": "https://www.youtube.com/watch?v=15RTJ3_D9Po",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "su",
+            "link": "https://www.youtube.com/watch?v=EFXag5IjKrU",
             "percent": 100,
-            "hz": 360
+            "hz": 240+
         }
     ]
 }
